@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="" >
+<testsuite  name="Default Test Suite" project="FunctionScript">
+<testsuite name="tests.net.retrocade.fusi.core:FunctionScriptMachineTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.core:FunctionScriptRunnerTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.parser:FunctionScriptParserTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:AddTokenTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:BreakTokenTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:DivideTokenTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:GetTokenTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:MultiplyTokenTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:NumberTokenTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:StopTokenTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:SubtractTokenTest" type="testcaseclass"/>
+<testsuite name="tests.net.retrocade.fusi.tokens:ThisTokenTest" type="testcaseclass"/>
+</testsuite>
+<portNumber value="8765" />
+</testrun>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="framework" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Retrocamel_hg/Tools/FlexUnit/framework.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
